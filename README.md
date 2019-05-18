@@ -1,5 +1,5 @@
 "ROBACUS" evokes a robotic abacus, a computer-human collaboration
-system.
+system. 
 
 Robacus was authored by Dr. Tzuo "Joe" Ching (PhD, UC Berkeley,
 1972??) in his 1970's, 1980's work modelling nuclear reactors.
@@ -16,27 +16,26 @@ what could be a very complex system.  Computer-driven calculations and
 random simulations (Monte Carlo methods) rather than pure math were
 emphasized in order to resolve issues too complex for the human mind.
 
-As example and proof, Dr. Ching used this program to quickly and
+As example and proof, as I understand it, Dr. Ching used this program to quickly and
 effectively model the details of the Three Mile Island nuclear plant
 *during* its meltdown so as to help to bring the unfolding disaster
-under control.  Let me merely point out that thereafter, he bought a
+under control.  Let me merely point out that shortly thereafter, he bought a
 large apartment complex in Berkeley, and now enjoys the life of Riley.
-Clearly something worked, the seeming grandiosity of his claims of universal
-knowledge farming and utopian futures based on this system
+Clearly something worked, grandiosity not
 notwithstanding.  It is incumbent on us to figure out what it was he
 actually achieved.
 
 On the one hand, his prolific writings and surprising opinions, which
-are often outlandish, shocking, or strange at a first impression,
+may seem often outlandish, shocking, or strange at a first impression,
 provide a useful alternative window on many things that we might not
-normally question (browse around in html-files/* or
-generated-html/*). Much suffers in translation.  But there are
+normally question (browse around in html-files/\* or
+generated-html/\*). Much suffers in translation.  But there are
 insights in there worth pulling out, in addition to the software
 archived here.
 
 Since his original work, he has used this quite general-purpose
 program in all kinds of unrelated explorations, from quantitative
-modeling of a poulty pandemic (see ./*-files/ep????), to the design
+modeling of a poulty pandemic (see ./\*-files/ep????), to the design
 and analysis of a novel approach to table tennis technique, (see
 ./pongfu-files).  More, the thousand relics of an active intellectual
 career may be found in the robacus filesystem, because the included
@@ -45,7 +44,7 @@ well as outputs, logs, and data files.  The form in which I received
 them was a flat filesystem in the robacus/ directory, which at this
 writing contained 3846 files.  Too huge to browse!
 
-As a service to Joe, my crazy brilliant friend, and to those who may
+As a service to Joe, my crazy brilliant friend, and to you who may
 wish to learn something from him, I have put this
 robacus directory of his into some kind of navigable order by sorting
 the files into categories like html, fortran, perl, log, data, etc.,
@@ -54,13 +53,14 @@ files.  See below.
 One category, which I have called nuclear-files, is not included in
 the public distribution I'm putting on github, despite the internal
 notes found in these files saying there is no restriction on
-distribution.
+distribution.  What I've posted is evidently unrestricted and safe to post,
+but please let me know of any questions or issues!
 
-Below you will find a listing of the categories I used, and what kinds
+Below you will find the categories I used, and what kinds
 of things may be found there.  To enter into and make sense of this
-large archive, I would take start from this README, then wander
+archive, I would take start from this README, then wander
 through the howto-files which give context for most of the other
-files.  On one track, try to understand, or compile and use, robacus
+files.  On one track, please try to understand, or compile and use, robacus
 itself.  On another track, you could spend quite a long time browsing
 the html-files, getting familiar with the products of Joe's strong
 mind.
