@@ -21,7 +21,7 @@ effectively model the details of the Three Mile Island nuclear plant
 *during* its meltdown so as to help to bring the unfolding disaster
 under control.  Let me merely point out that shortly thereafter, he bought a
 large apartment complex in Berkeley, and now enjoys the life of Riley.
-Clearly something worked, grandiosity not
+Clearly something worked, grandiosity
 notwithstanding.  It is incumbent on us to figure out what it was he
 actually achieved.
 
@@ -89,7 +89,9 @@ to solve problems of the highest complexity, urgency and value.  If
 so, we should not lose, and will profit by understanding, what they
 have done.  For that reason I bring you "ROBACUS".
 
-You might even be able to compile and run it.  Please try!
+You might even be able to compile and run it (I'd love to see a port to WebAssembly,
+which would enable it to be executed on any modern platform.)  If you are
+able, please try!  ... Or, please give me some guidance as to how I might begin
 
 If something should be in a different place, or if you can improve the
 understandability or utility of these files, please send me the changes
